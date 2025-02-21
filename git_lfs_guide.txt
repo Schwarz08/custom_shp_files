@@ -1,0 +1,6 @@
+1. Create repository in GitHub
+2. Upload files to repository except the large file
+3. Clone repository to local
+4. Open Git Bash
+5a. Only upload 1 large file at a time
+5b. Run commands in https://git-lfs.com/
